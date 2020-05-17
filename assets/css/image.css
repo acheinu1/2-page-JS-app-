@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+   margin: 100px 400px; 
+   /* text-align: center; */
+}
+h1{
+    font-size:40px;
+    line-height: 60px;
+}
+ul{
+    list-style: none;
+    line-height: 30px;
+}
+
+img{
+    /* display:none; */
+    width: 50%;
+    height: 250px;
+}
+
+.hide{
+    display: none;
+}
